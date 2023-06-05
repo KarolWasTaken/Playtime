@@ -3,9 +3,7 @@ Creates pie chart for game playtimes
 
 # Screenshots
 
-<img src="https://cdn.discordapp.com/attachments/1015338649388331028/1115317754724102154/1.png" width="145" height="234">
-
-
+![App Screenshot](https://cdn.discordapp.com/attachments/1015338649388331028/1115317754724102154/1.png)
 ![App Screenshot](https://cdn.discordapp.com/attachments/1015338649388331028/1115317755005116496/2.png)
 
 
