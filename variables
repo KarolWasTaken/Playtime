@@ -1,0 +1,4 @@
+Hours = False
+Percentage = False
+gameData = {}
+displayGameNames = []
